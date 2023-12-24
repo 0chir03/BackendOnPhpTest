@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cc4d7c3-a75f-4c82-8300-11ab06e661de" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/91c66984-bedf-4c28-a72f-de7a0ba26bbd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/91c66984-bedf-4c28-a72f-de7a0ba26bbd.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/hanlder/login.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/hanlder/main.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/hanlder/registrate.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/html/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/html/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/html/main.phtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/html/registrate.phtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-    </list>
+    <list default="true" id="9cc4d7c3-a75f-4c82-8300-11ab06e661de" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,11 +94,24 @@
       <workItem from="1701516293894" duration="859000" />
       <workItem from="1701517295373" duration="927000" />
       <workItem from="1702985237478" duration="897000" />
-      <workItem from="1703424570979" duration="1524000" />
+      <workItem from="1703424570979" duration="1852000" />
     </task>
+    <task id="LOCAL-00001" summary="Version_1">
+      <option name="closed" value="true" />
+      <created>1703428208526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703428208526</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Version_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version_1" />
   </component>
 </project>
