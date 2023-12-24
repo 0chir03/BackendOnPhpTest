@@ -4,114 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cc4d7c3-a75f-4c82-8300-11ab06e661de" name="Changes" comment="" />
+    <list default="true" id="a2ccabc2-ad2f-438a-a670-1988ce72e698" name="Changes" comment="Vers_1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
-    <pharConfigPath>$PROJECT_DIR$/app/composer.json</pharConfigPath>
+  <component name="ComposerSettings">
     <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
-}</component>
-  <component name="ProjectId" id="2U6FMIXjVK9FN5zrAnCtVyywtRY" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/ochir/TestProject&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-  },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;postgresql&quot;
-    ]
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-php-predefined-ba97393d7c68-b4dcf6bb9de9-com.jetbrains.php.sharedIndexes-PS-233.13135.108" />
-      </set>
-    </attachedChunks>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+}]]></component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="9cc4d7c3-a75f-4c82-8300-11ab06e661de" name="Changes" comment="" />
-      <created>1692252073850</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1692252073850</updated>
-      <workItem from="1692252075260" duration="6053000" />
-      <workItem from="1692368473409" duration="612000" />
-      <workItem from="1692420584773" duration="8491000" />
-      <workItem from="1693375087412" duration="7287000" />
-      <workItem from="1693485581060" duration="6497000" />
-      <workItem from="1693571690115" duration="9750000" />
-      <workItem from="1693634157683" duration="14165000" />
-      <workItem from="1693713196196" duration="9667000" />
-      <workItem from="1693739331003" duration="453000" />
-      <workItem from="1693739795096" duration="6993000" />
-      <workItem from="1693825424561" duration="1444000" />
-      <workItem from="1693828567747" duration="9702000" />
-      <workItem from="1693899015513" duration="13506000" />
-      <workItem from="1693999964613" duration="4084000" />
-      <workItem from="1694084890040" duration="8219000" />
-      <workItem from="1694253458726" duration="152000" />
-      <workItem from="1694253622970" duration="820000" />
-      <workItem from="1694254517699" duration="441000" />
-      <workItem from="1694254970020" duration="7121000" />
-      <workItem from="1694357450585" duration="1723000" />
-      <workItem from="1694423647450" duration="1842000" />
-      <workItem from="1694515698374" duration="8049000" />
-      <workItem from="1694780381161" duration="4468000" />
-      <workItem from="1696956130508" duration="645000" />
-      <workItem from="1701265002034" duration="3808000" />
-      <workItem from="1701349770924" duration="6086000" />
-      <workItem from="1701356589934" duration="2248000" />
-      <workItem from="1701431811894" duration="4172000" />
-      <workItem from="1701516293894" duration="859000" />
-      <workItem from="1701517295373" duration="927000" />
-      <workItem from="1702985237478" duration="897000" />
-      <workItem from="1703424570979" duration="1852000" />
-    </task>
-    <task id="LOCAL-00001" summary="Version_1">
-      <option name="closed" value="true" />
-      <created>1703428208526</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1703428208526</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Version_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version_1" />
+    <MESSAGE value="Vers_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vers_1" />
   </component>
 </project>
